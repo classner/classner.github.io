@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Rainer Lienhart | </title>
+    <link>https://christophlassner.de/authors/rainer-lienhart/</link>
+      <atom:link href="https://christophlassner.de/authors/rainer-lienhart/index.xml" rel="self" type="application/rss+xml" />
+    <description>Rainer Lienhart</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Fri, 09 Oct 2015 15:43:19 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Rainer Lienhart</title>
+      <link>https://christophlassner.de/authors/rainer-lienhart/</link>
+    </image>
+    
+    <item>
+      <title>The fertilized forests Decision Forest Library</title>
+      <link>https://christophlassner.de/publication/fertilized/</link>
+      <pubDate>Fri, 09 Oct 2015 15:43:19 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/fertilized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning for Efficient Sampling of Control Models of Collectives</title>
+      <link>https://christophlassner.de/publication/active-sampling/</link>
+      <pubDate>Wed, 09 Sep 2015 16:59:44 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/active-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-induced Entropies for Decision Forests</title>
+      <link>https://christophlassner.de/publication/norm-induced/</link>
+      <pubDate>Fri, 09 Jan 2015 15:49:41 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/norm-induced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and Applications for Distance Based ANN Training</title>
+      <link>https://christophlassner.de/publication/distance-anns/</link>
+      <pubDate>Mon, 09 Dec 2013 15:54:04 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/distance-anns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Michael J. Black | </title>
+    <link>https://christophlassner.de/authors/michael-j.-black/</link>
+      <atom:link href="https://christophlassner.de/authors/michael-j.-black/index.xml" rel="self" type="application/rss+xml" />
+    <description>Michael J. Black</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Fri, 07 Feb 2020 13:49:23 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Michael J. Black</title>
+      <link>https://christophlassner.de/authors/michael-j.-black/</link>
+    </image>
+    
+    <item>
+      <title>Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations</title>
+      <link>https://christophlassner.de/publication/representation-cycling/</link>
+      <pubDate>Fri, 07 Feb 2020 13:49:23 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/representation-cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Marker-less Human Shape and Pose Estimation over Time</title>
+      <link>https://christophlassner.de/publication/markerless-hmc/</link>
+      <pubDate>Mon, 09 Oct 2017 15:25:47 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/markerless-hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unite the People: Closing the Loop Between 3D and 2D Human Representations</title>
+      <link>https://christophlassner.de/publication/up/</link>
+      <pubDate>Sat, 09 Sep 2017 14:51:32 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image</title>
+      <link>https://christophlassner.de/publication/smplify/</link>
+      <pubDate>Sun, 09 Oct 2016 15:34:13 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/smplify/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,128 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>1 | </title>
+    <link>https://christophlassner.de/publication_types/1/</link>
+      <atom:link href="https://christophlassner.de/publication_types/1/index.xml" rel="self" type="application/rss+xml" />
+    <description>1</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Fri, 07 Feb 2020 13:49:23 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>1</title>
+      <link>https://christophlassner.de/publication_types/1/</link>
+    </image>
+    
+    <item>
+      <title>Chained Representation Cycling: Learning to Estimate 3D Human Pose and Shape by Cycling Between Representations</title>
+      <link>https://christophlassner.de/publication/representation-cycling/</link>
+      <pubDate>Fri, 07 Feb 2020 13:49:23 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/representation-cycling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Learning on Point Clouds With Basis Point Sets</title>
+      <link>https://christophlassner.de/publication/learning-pointclouds/</link>
+      <pubDate>Tue, 01 Oct 2019 14:33:40 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/learning-pointclouds/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural Body Fitting: Unifying Deep Learning and Model-Based Human Pose and Shape Estimation</title>
+      <link>https://christophlassner.de/publication/nbf/</link>
+      <pubDate>Sat, 01 Sep 2018 14:40:55 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/nbf/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Towards Accurate Marker-less Human Shape and Pose Estimation over Time</title>
+      <link>https://christophlassner.de/publication/markerless-hmc/</link>
+      <pubDate>Mon, 09 Oct 2017 15:25:47 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/markerless-hmc/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>A Generative Model of People in Clothing</title>
+      <link>https://christophlassner.de/publication/generating-people/</link>
+      <pubDate>Mon, 09 Oct 2017 14:46:10 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/generating-people/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Unite the People: Closing the Loop Between 3D and 2D Human Representations</title>
+      <link>https://christophlassner.de/publication/up/</link>
+      <pubDate>Sat, 09 Sep 2017 14:51:32 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Early Stopping Without a Validation Set</title>
+      <link>https://christophlassner.de/publication/early-stopping/</link>
+      <pubDate>Thu, 09 Mar 2017 15:11:38 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/early-stopping/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrista - Caffe Well-Served</title>
+      <link>https://christophlassner.de/publication/barrista/</link>
+      <pubDate>Sun, 09 Oct 2016 15:39:47 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/barrista/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image</title>
+      <link>https://christophlassner.de/publication/smplify/</link>
+      <pubDate>Sun, 09 Oct 2016 15:34:13 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/smplify/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>The fertilized forests Decision Forest Library</title>
+      <link>https://christophlassner.de/publication/fertilized/</link>
+      <pubDate>Fri, 09 Oct 2015 15:43:19 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/fertilized/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning for Efficient Sampling of Control Models of Collectives</title>
+      <link>https://christophlassner.de/publication/active-sampling/</link>
+      <pubDate>Wed, 09 Sep 2015 16:59:44 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/active-sampling/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Active Learning for Efficient Sampling of Control Models of Collectives</title>
+      <link>https://christophlassner.de/publication/active-collectives/</link>
+      <pubDate>Mon, 09 Mar 2015 17:18:24 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/active-collectives/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Norm-induced Entropies for Decision Forests</title>
+      <link>https://christophlassner.de/publication/norm-induced/</link>
+      <pubDate>Fri, 09 Jan 2015 15:49:41 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/norm-induced/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Methods and Applications for Distance Based ANN Training</title>
+      <link>https://christophlassner.de/publication/distance-anns/</link>
+      <pubDate>Mon, 09 Dec 2013 15:54:04 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/distance-anns/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

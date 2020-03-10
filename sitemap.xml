@@ -1,9 +1,250 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
-    
-        <url>
-            <loc>https://christophlassner.de/</loc>
-            
-        </url>
-    
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://christophlassner.de/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication_types/1/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/representation-cycling/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/christoph-lassner/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/konrad-schindler/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/michael-j.-black/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/nadine-ruegg/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication_types/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/</loc>
+    <lastmod>2020-02-07T13:49:23-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/learning-pointclouds/</loc>
+    <lastmod>2019-10-01T14:33:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/javier-romero/</loc>
+    <lastmod>2019-10-01T14:33:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/sergey-prokudin/</loc>
+    <lastmod>2019-10-01T14:33:40-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/bernt-schiele/</loc>
+    <lastmod>2018-09-01T14:40:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/gerard-pons-moll/</loc>
+    <lastmod>2018-09-01T14:40:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/mohamed-omran/</loc>
+    <lastmod>2018-09-01T14:40:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/nbf/</loc>
+    <lastmod>2018-09-01T14:40:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/peter-v.-gehler/</loc>
+    <lastmod>2018-09-01T14:40:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication_types/7/</loc>
+    <lastmod>2018-03-09T17:25:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/phd-thesis/</loc>
+    <lastmod>2018-03-09T17:25:55-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/angjoo-kanazawa/</loc>
+    <lastmod>2017-10-09T15:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/federica-bogo/</loc>
+    <lastmod>2017-10-09T15:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/ijaz-akhter/</loc>
+    <lastmod>2017-10-09T15:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/markerless-hmc/</loc>
+    <lastmod>2017-10-09T15:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/yinghao-huang/</loc>
+    <lastmod>2017-10-09T15:25:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/generating-people/</loc>
+    <lastmod>2017-10-09T14:46:10-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/martin-kiefel/</loc>
+    <lastmod>2017-09-09T14:51:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/up/</loc>
+    <lastmod>2017-09-09T14:51:32-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/early-stopping/</loc>
+    <lastmod>2017-03-09T15:11:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/lukas-balles/</loc>
+    <lastmod>2017-03-09T15:11:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/maren-mahsereci/</loc>
+    <lastmod>2017-03-09T15:11:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/philipp-hennig/</loc>
+    <lastmod>2017-03-09T15:11:38-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/barrista/</loc>
+    <lastmod>2016-10-09T15:39:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/daniel-kappler/</loc>
+    <lastmod>2016-10-09T15:39:47-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/smplify/</loc>
+    <lastmod>2016-10-09T15:34:13-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/rainer-lienhart/</loc>
+    <lastmod>2015-10-09T15:43:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/fertilized/</loc>
+    <lastmod>2015-10-09T15:43:19-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/active-sampling/</loc>
+    <lastmod>2015-09-09T16:59:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/alexander-schiendorfer/</loc>
+    <lastmod>2015-09-09T16:59:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/gerrit-anders/</loc>
+    <lastmod>2015-09-09T16:59:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/wolfgang-reif/</loc>
+    <lastmod>2015-09-09T16:59:44-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/active-collectives/</loc>
+    <lastmod>2015-03-09T17:18:24-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/norm-induced/</loc>
+    <lastmod>2015-01-09T15:49:41-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/distance-anns/</loc>
+    <lastmod>2013-12-09T15:54:04-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/publication/diploma-thesis/</loc>
+    <lastmod>2012-05-09T17:23:45-07:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/authors/admin/</loc>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/categories/</loc>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/post/</loc>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/talk/</loc>
+  </url>
+  
+  <url>
+    <loc>https://christophlassner.de/tags/</loc>
+  </url>
+  
 </urlset>

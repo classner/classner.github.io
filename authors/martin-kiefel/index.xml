@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Martin Kiefel | </title>
+    <link>https://christophlassner.de/authors/martin-kiefel/</link>
+      <atom:link href="https://christophlassner.de/authors/martin-kiefel/index.xml" rel="self" type="application/rss+xml" />
+    <description>Martin Kiefel</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Sat, 09 Sep 2017 14:51:32 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Martin Kiefel</title>
+      <link>https://christophlassner.de/authors/martin-kiefel/</link>
+    </image>
+    
+    <item>
+      <title>Unite the People: Closing the Loop Between 3D and 2D Human Representations</title>
+      <link>https://christophlassner.de/publication/up/</link>
+      <pubDate>Sat, 09 Sep 2017 14:51:32 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/up/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Barrista - Caffe Well-Served</title>
+      <link>https://christophlassner.de/publication/barrista/</link>
+      <pubDate>Sun, 09 Oct 2016 15:39:47 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/barrista/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

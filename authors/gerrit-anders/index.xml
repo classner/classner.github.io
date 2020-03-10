@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Gerrit Anders | </title>
+    <link>https://christophlassner.de/authors/gerrit-anders/</link>
+      <atom:link href="https://christophlassner.de/authors/gerrit-anders/index.xml" rel="self" type="application/rss+xml" />
+    <description>Gerrit Anders</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Wed, 09 Sep 2015 16:59:44 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Gerrit Anders</title>
+      <link>https://christophlassner.de/authors/gerrit-anders/</link>
+    </image>
+    
+    <item>
+      <title>Active Learning for Efficient Sampling of Control Models of Collectives</title>
+      <link>https://christophlassner.de/publication/active-sampling/</link>
+      <pubDate>Wed, 09 Sep 2015 16:59:44 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/active-sampling/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

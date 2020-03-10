@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ijaz Akhter | </title>
+    <link>https://christophlassner.de/authors/ijaz-akhter/</link>
+      <atom:link href="https://christophlassner.de/authors/ijaz-akhter/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ijaz Akhter</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Mon, 09 Oct 2017 15:25:47 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ijaz Akhter</title>
+      <link>https://christophlassner.de/authors/ijaz-akhter/</link>
+    </image>
+    
+    <item>
+      <title>Towards Accurate Marker-less Human Shape and Pose Estimation over Time</title>
+      <link>https://christophlassner.de/publication/markerless-hmc/</link>
+      <pubDate>Mon, 09 Oct 2017 15:25:47 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/markerless-hmc/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
