@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Tony Tung | </title>
-    <link>https://christophlassner.de/authors/tony-tung/</link>
-      <atom:link href="https://christophlassner.de/authors/tony-tung/index.xml" rel="self" type="application/rss+xml" />
-    <description>Tony Tung</description>
+    <title>Carsten Stoll | </title>
+    <link>https://christophlassner.de/authors/carsten-stoll/</link>
+      <atom:link href="https://christophlassner.de/authors/carsten-stoll/index.xml" rel="self" type="application/rss+xml" />
+    <description>Carsten Stoll</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2020 Christoph Lassner</copyright><lastBuildDate>Tue, 25 Aug 2020 19:11:07 -0700</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Tony Tung</title>
-      <link>https://christophlassner.de/authors/tony-tung/</link>
+      <title>Carsten Stoll</title>
+      <link>https://christophlassner.de/authors/carsten-stoll/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://christophlassner.de/publication/texmesh/</link>
       <pubDate>Tue, 25 Aug 2020 19:11:07 -0700</pubDate>
       <guid>https://christophlassner.de/publication/texmesh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>ARCH: Animatable Reconstruction of Clothed Humans</title>
-      <link>https://christophlassner.de/publication/arch/</link>
-      <pubDate>Wed, 03 Jun 2020 15:12:49 -0700</pubDate>
-      <guid>https://christophlassner.de/publication/arch/</guid>
       <description></description>
     </item>
     
