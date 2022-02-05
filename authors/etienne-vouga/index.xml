@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Etienne Vouga | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/etienne-vouga/</link>
+      <atom:link href="https://christophlassner.de/authors/etienne-vouga/index.xml" rel="self" type="application/rss+xml" />
+    <description>Etienne Vouga</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 12 Jan 2022 14:25:11 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Etienne Vouga</title>
+      <link>https://christophlassner.de/authors/etienne-vouga/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Elastic Objects</title>
+      <link>https://christophlassner.de/publication/veo/</link>
+      <pubDate>Wed, 12 Jan 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/veo/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

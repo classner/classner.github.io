@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ziyan Wang | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/ziyan-wang/</link>
+      <atom:link href="https://christophlassner.de/authors/ziyan-wang/index.xml" rel="self" type="application/rss+xml" />
+    <description>Ziyan Wang</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Mon, 13 Dec 2021 14:25:11 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Ziyan Wang</title>
+      <link>https://christophlassner.de/authors/ziyan-wang/</link>
+    </image>
+    
+    <item>
+      <title>Human View Synthesis using a Single Sparse RGB-D Input</title>
+      <link>https://christophlassner.de/publication/hvh/</link>
+      <pubDate>Mon, 13 Dec 2021 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/hvh/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
