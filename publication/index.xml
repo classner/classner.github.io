@@ -5,7 +5,7 @@
     <link>https://christophlassner.de/publication/</link>
       <atom:link href="https://christophlassner.de/publication/index.xml" rel="self" type="application/rss+xml" />
     <description>Publications</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 12 Jan 2022 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 29 Jun 2022 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Publications</title>
@@ -13,10 +13,42 @@
     </image>
     
     <item>
+      <title>HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture</title>
+      <link>https://christophlassner.de/publication/hvh/</link>
+      <pubDate>Wed, 29 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/hvh/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Virtual Elastic Objects</title>
       <link>https://christophlassner.de/publication/veo/</link>
-      <pubDate>Wed, 12 Jan 2022 14:25:11 -0800</pubDate>
+      <pubDate>Wed, 29 Jun 2022 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/veo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Neural 3D Video Synthesis</title>
+      <link>https://christophlassner.de/publication/nvs/</link>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/nvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Neural Articulated Shape and Appearance Models</title>
+      <link>https://christophlassner.de/publication/snasam/</link>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/snasam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://christophlassner.de/publication/advances_in_nr/</link>
+      <pubDate>Thu, 28 Apr 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/advances_in_nr/</guid>
       <description></description>
     </item>
     
@@ -25,14 +57,6 @@
       <link>https://christophlassner.de/publication/hvs/</link>
       <pubDate>Thu, 30 Dec 2021 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/hvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture</title>
-      <link>https://christophlassner.de/publication/hvh/</link>
-      <pubDate>Mon, 13 Dec 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/hvh/</guid>
       <description></description>
     </item>
     
@@ -57,14 +81,6 @@
       <link>https://christophlassner.de/publication/pulsar/</link>
       <pubDate>Thu, 03 Jun 2021 19:37:44 -0800</pubDate>
       <guid>https://christophlassner.de/publication/pulsar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural 3D Video Synthesis</title>
-      <link>https://christophlassner.de/publication/nvs/</link>
-      <pubDate>Wed, 03 Mar 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/nvs/</guid>
       <description></description>
     </item>
     

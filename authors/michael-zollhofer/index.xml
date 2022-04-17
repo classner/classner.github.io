@@ -5,12 +5,36 @@
     <link>https://christophlassner.de/authors/michael-zollhofer/</link>
       <atom:link href="https://christophlassner.de/authors/michael-zollhofer/index.xml" rel="self" type="application/rss+xml" />
     <description>Michael Zollhöfer</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Sun, 05 Sep 2021 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Tue, 28 Jun 2022 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Michael Zollhöfer</title>
       <link>https://christophlassner.de/authors/michael-zollhofer/</link>
     </image>
+    
+    <item>
+      <title>Neural 3D Video Synthesis</title>
+      <link>https://christophlassner.de/publication/nvs/</link>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/nvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Neural Articulated Shape and Appearance Models</title>
+      <link>https://christophlassner.de/publication/snasam/</link>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/snasam/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://christophlassner.de/publication/advances_in_nr/</link>
+      <pubDate>Thu, 28 Apr 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/advances_in_nr/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Non-rigid Neural Radiance Fields: Reconstruction and Novel View Synthesis of a Dynamic Scene from Monocular Video</title>
@@ -25,14 +49,6 @@
       <link>https://christophlassner.de/publication/pulsar/</link>
       <pubDate>Thu, 03 Jun 2021 19:37:44 -0800</pubDate>
       <guid>https://christophlassner.de/publication/pulsar/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural 3D Video Synthesis</title>
-      <link>https://christophlassner.de/publication/nvs/</link>
-      <pubDate>Wed, 03 Mar 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/nvs/</guid>
       <description></description>
     </item>
     

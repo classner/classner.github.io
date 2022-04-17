@@ -5,7 +5,7 @@
     <link>https://christophlassner.de/publication_types/3/</link>
       <atom:link href="https://christophlassner.de/publication_types/3/index.xml" rel="self" type="application/rss+xml" />
     <description>3</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 12 Jan 2022 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Thu, 30 Dec 2021 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>3</title>
@@ -13,34 +13,10 @@
     </image>
     
     <item>
-      <title>Virtual Elastic Objects</title>
-      <link>https://christophlassner.de/publication/veo/</link>
-      <pubDate>Wed, 12 Jan 2022 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/veo/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Human View Synthesis using a Single Sparse RGB-D Input</title>
       <link>https://christophlassner.de/publication/hvs/</link>
       <pubDate>Thu, 30 Dec 2021 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/hvs/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture</title>
-      <link>https://christophlassner.de/publication/hvh/</link>
-      <pubDate>Mon, 13 Dec 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/hvh/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural 3D Video Synthesis</title>
-      <link>https://christophlassner.de/publication/nvs/</link>
-      <pubDate>Wed, 03 Mar 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/nvs/</guid>
       <description></description>
     </item>
     

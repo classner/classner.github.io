@@ -5,7 +5,7 @@
     <link>https://christophlassner.de/authors/mira-slavcheva/</link>
       <atom:link href="https://christophlassner.de/authors/mira-slavcheva/index.xml" rel="self" type="application/rss+xml" />
     <description>Mira Slavcheva</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 03 Mar 2021 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Tue, 28 Jun 2022 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Mira Slavcheva</title>
@@ -15,8 +15,16 @@
     <item>
       <title>Neural 3D Video Synthesis</title>
       <link>https://christophlassner.de/publication/nvs/</link>
-      <pubDate>Wed, 03 Mar 2021 14:25:11 -0800</pubDate>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/nvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Self-supervised Neural Articulated Shape and Appearance Models</title>
+      <link>https://christophlassner.de/publication/snasam/</link>
+      <pubDate>Tue, 28 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/snasam/</guid>
       <description></description>
     </item>
     

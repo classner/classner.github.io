@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Edith Tretschk | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/edith-tretschk/</link>
+      <atom:link href="https://christophlassner.de/authors/edith-tretschk/index.xml" rel="self" type="application/rss+xml" />
+    <description>Edith Tretschk</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 29 Jun 2022 14:25:11 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Edith Tretschk</title>
+      <link>https://christophlassner.de/authors/edith-tretschk/</link>
+    </image>
+    
+    <item>
+      <title>Virtual Elastic Objects</title>
+      <link>https://christophlassner.de/publication/veo/</link>
+      <pubDate>Wed, 29 Jun 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/veo/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://christophlassner.de/publication/advances_in_nr/</link>
+      <pubDate>Thu, 28 Apr 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/advances_in_nr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
