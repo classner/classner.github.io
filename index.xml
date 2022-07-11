@@ -5,12 +5,36 @@
     <link>https://christophlassner.de/</link>
       <atom:link href="https://christophlassner.de/index.xml" rel="self" type="application/rss+xml" />
     <description>Christoph Lassner</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 29 Jun 2022 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Sun, 30 Oct 2022 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Christoph Lassner</title>
       <link>https://christophlassner.de/</link>
     </image>
+    
+    <item>
+      <title>Human View Synthesis using a Single Sparse RGB-D Input</title>
+      <link>https://christophlassner.de/publication/hvs/</link>
+      <pubDate>Sun, 30 Oct 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/hvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAVA: Template-free Animatable Volumetric Actors</title>
+      <link>https://christophlassner.de/publication/tava/</link>
+      <pubDate>Sun, 30 Oct 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/tava/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Efficient Estimation of Boundary Integrals for Path-Space Differentiable Rendering</title>
+      <link>https://christophlassner.de/publication/eebi/</link>
+      <pubDate>Tue, 09 Aug 2022 17:18:24 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/eebi/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture</title>
@@ -49,14 +73,6 @@
       <link>https://christophlassner.de/publication/advances_in_nr/</link>
       <pubDate>Thu, 28 Apr 2022 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/advances_in_nr/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Human View Synthesis using a Single Sparse RGB-D Input</title>
-      <link>https://christophlassner.de/publication/hvs/</link>
-      <pubDate>Thu, 30 Dec 2021 14:25:11 -0800</pubDate>
-      <guid>https://christophlassner.de/publication/hvs/</guid>
       <description></description>
     </item>
     
