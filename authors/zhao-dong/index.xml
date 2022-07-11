@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Zhao Dong | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/zhao-dong/</link>
+      <atom:link href="https://christophlassner.de/authors/zhao-dong/index.xml" rel="self" type="application/rss+xml" />
+    <description>Zhao Dong</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Tue, 09 Aug 2022 17:18:24 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Zhao Dong</title>
+      <link>https://christophlassner.de/authors/zhao-dong/</link>
+    </image>
+    
+    <item>
+      <title>Efficient Estimation of Boundary Integrals for Path-Space Differentiable Rendering</title>
+      <link>https://christophlassner.de/publication/eebi/</link>
+      <pubDate>Tue, 09 Aug 2022 17:18:24 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/eebi/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

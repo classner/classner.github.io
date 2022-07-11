@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ECCV2022 | Christoph Lassner</title>
+    <link>https://christophlassner.de/tags/eccv2022/</link>
+      <atom:link href="https://christophlassner.de/tags/eccv2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>ECCV2022</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Sun, 30 Oct 2022 14:25:11 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ECCV2022</title>
+      <link>https://christophlassner.de/tags/eccv2022/</link>
+    </image>
+    
+    <item>
+      <title>Human View Synthesis using a Single Sparse RGB-D Input</title>
+      <link>https://christophlassner.de/publication/hvs/</link>
+      <pubDate>Sun, 30 Oct 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/hvs/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>TAVA: Template-free Animatable Volumetric Actors</title>
+      <link>https://christophlassner.de/publication/tava/</link>
+      <pubDate>Sun, 30 Oct 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/tava/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

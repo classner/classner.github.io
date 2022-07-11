@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ACMMMOSSC2015 | Christoph Lassner</title>
+    <link>https://christophlassner.de/tags/acmmmossc2015/</link>
+      <atom:link href="https://christophlassner.de/tags/acmmmossc2015/index.xml" rel="self" type="application/rss+xml" />
+    <description>ACMMMOSSC2015</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Fri, 09 Oct 2015 15:43:19 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>ACMMMOSSC2015</title>
+      <link>https://christophlassner.de/tags/acmmmossc2015/</link>
+    </image>
+    
+    <item>
+      <title>The fertilized forests Decision Forest Library</title>
+      <link>https://christophlassner.de/publication/fertilized/</link>
+      <pubDate>Fri, 09 Oct 2015 15:43:19 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/fertilized/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>

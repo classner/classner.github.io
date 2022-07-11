@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>EGSTAR2022 | Christoph Lassner</title>
+    <link>https://christophlassner.de/tags/egstar2022/</link>
+      <atom:link href="https://christophlassner.de/tags/egstar2022/index.xml" rel="self" type="application/rss+xml" />
+    <description>EGSTAR2022</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Thu, 28 Apr 2022 14:25:11 -0800</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>EGSTAR2022</title>
+      <link>https://christophlassner.de/tags/egstar2022/</link>
+    </image>
+    
+    <item>
+      <title>Advances in Neural Rendering</title>
+      <link>https://christophlassner.de/publication/advances_in_nr/</link>
+      <pubDate>Thu, 28 Apr 2022 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/advances_in_nr/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
