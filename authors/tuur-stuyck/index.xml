@@ -5,12 +5,20 @@
     <link>https://christophlassner.de/authors/tuur-stuyck/</link>
       <atom:link href="https://christophlassner.de/authors/tuur-stuyck/index.xml" rel="self" type="application/rss+xml" />
     <description>Tuur Stuyck</description>
-    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2022 Christoph Lassner</copyright><lastBuildDate>Wed, 29 Jun 2022 14:25:11 -0800</lastBuildDate>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Christoph Lassner</copyright><lastBuildDate>Thu, 08 Jun 2023 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
       <title>Tuur Stuyck</title>
       <link>https://christophlassner.de/authors/tuur-stuyck/</link>
     </image>
+    
+    <item>
+      <title>NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation</title>
+      <link>https://christophlassner.de/publication/neuwigs/</link>
+      <pubDate>Thu, 08 Jun 2023 14:25:11 -0800</pubDate>
+      <guid>https://christophlassner.de/publication/neuwigs/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>HVH: Learning a Hybrid Neural Volumetric Representation for Dynamic Hair Performance Capture</title>

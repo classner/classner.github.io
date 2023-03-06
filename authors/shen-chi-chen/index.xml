@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Shen-Chi Chen | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/shen-chi-chen/</link>
+      <atom:link href="https://christophlassner.de/authors/shen-chi-chen/index.xml" rel="self" type="application/rss+xml" />
+    <description>Shen-Chi Chen</description>
+    <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Christoph Lassner</copyright><lastBuildDate>Wed, 07 Dec 2022 17:18:24 -0700</lastBuildDate>
+    <image>
+      <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
+      <title>Shen-Chi Chen</title>
+      <link>https://christophlassner.de/authors/shen-chi-chen/</link>
+    </image>
+    
+    <item>
+      <title>SSDNeRF: Semantic Soft Decomposition of Neural Radiance Fields</title>
+      <link>https://christophlassner.de/publication/ssdnerf/</link>
+      <pubDate>Wed, 07 Dec 2022 17:18:24 -0700</pubDate>
+      <guid>https://christophlassner.de/publication/ssdnerf/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
