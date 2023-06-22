@@ -33,10 +33,10 @@
   
     
   
-  <meta name="description" content="">
+  <meta name="description" content="We propose a neural lens model that is versatile, easy to use and can be trivially used in gradient-based optimization pipelines for point projection and rendering. We also propose a new dataset for evaluation of lens and calibration models and a new strategy to create marker boards for calibration.">
 
   
-  <link rel="alternate" hreflang="en-us" href="https://christophlassner.de/publication_types/1/">
+  <link rel="alternate" hreflang="en-us" href="https://christophlassner.de/publication/neural-lens/">
 
   
 
@@ -218,14 +218,12 @@
 
 
   
-  <link rel="alternate" href="/publication_types/1/index.xml" type="application/rss+xml" title="Christoph Lassner">
-  
 
   <link rel="manifest" href="/index.webmanifest">
   <link rel="icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_32x32_fill_lanczos_center_3.png">
   <link rel="apple-touch-icon" type="image/png" href="/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png">
 
-  <link rel="canonical" href="https://christophlassner.de/publication_types/1/">
+  <link rel="canonical" href="https://christophlassner.de/publication/neural-lens/">
 
   
   
@@ -233,35 +231,84 @@
   
   
     
-    
   
   
-  <meta property="twitter:card" content="summary">
+  <meta property="twitter:card" content="summary_large_image">
   
   <meta property="og:site_name" content="Christoph Lassner">
-  <meta property="og:url" content="https://christophlassner.de/publication_types/1/">
-  <meta property="og:title" content="1 | Christoph Lassner">
-  <meta property="og:description" content=""><meta property="og:image" content="img/map[gravatar:%!s(bool=false) shape:circle]">
-  <meta property="twitter:image" content="img/map[gravatar:%!s(bool=false) shape:circle]"><meta property="og:locale" content="en-us">
+  <meta property="og:url" content="https://christophlassner.de/publication/neural-lens/">
+  <meta property="og:title" content="Neural Lens Modeling | Christoph Lassner">
+  <meta property="og:description" content="We propose a neural lens model that is versatile, easy to use and can be trivially used in gradient-based optimization pipelines for point projection and rendering. We also propose a new dataset for evaluation of lens and calibration models and a new strategy to create marker boards for calibration."><meta property="og:image" content="https://christophlassner.de/publication/neural-lens/featured.png">
+  <meta property="twitter:image" content="https://christophlassner.de/publication/neural-lens/featured.png"><meta property="og:locale" content="en-us">
   
-    <meta property="og:updated_time" content="2023-06-08T14:25:11-08:00">
+    
+      <meta property="article:published_time" content="2022-12-12T17:18:24-07:00">
+    
+    <meta property="article:modified_time" content="2023-06-08T14:25:11-08:00">
   
-
-  
-
-
-
 
   
 
 
+    
+
+
+
+
+
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "mainEntityOfPage": {
+    "@type": "WebPage",
+    "@id": "https://christophlassner.de/publication/neural-lens/"
+  },
+  "headline": "Neural Lens Modeling",
+  
+  "image": [
+    "https://christophlassner.de/publication/neural-lens/featured.png"
+  ],
+  
+  "datePublished": "2022-12-12T17:18:24-07:00",
+  "dateModified": "2023-06-08T14:25:11-08:00",
+  
+  "author": {
+    "@type": "Person",
+    "name": "Wenqi Xian"
+  },
+  
+  "publisher": {
+    "@type": "Organization",
+    "name": "Christoph Lassner",
+    "logo": {
+      "@type": "ImageObject",
+      "url": "https://christophlassner.de/images/icon_hu0b7a4cb9992c9ac0e91bd28ffd38dd00_9727_192x192_fill_lanczos_center_3.png"
+    }
+  },
+  "description": "We propose a neural lens model that is versatile, easy to use and can be trivially used in gradient-based optimization pipelines for point projection and rendering. We also propose a new dataset for evaluation of lens and calibration models and a new strategy to create marker boards for calibration."
+}
+</script>
+
+  
+
+  
+
+
+  
+
+
   
 
 
 
 
 
-  <title>1 | Christoph Lassner</title>
+  <title>Neural Lens Modeling | Christoph Lassner</title>
 
 </head>
 
@@ -418,6 +465,7 @@
 </nav>
 
 
+  <div class="pub">
   
 
 
@@ -431,124 +479,302 @@
 
 
 
-  
 
-  
+
+
+
+
+
+
+
   
   
     
   
-<div class="universal-wrapper pt-3">
-  <h1>1</h1>
+
+
+<div class="article-container pt-3">
+  <h1>Neural Lens Modeling</h1>
 
   
 
+  
+
+
+<div class="article-metadata">
+
+  
+  
+  
+  
+  <div>
+    
+
+  
+  <span>Wenqi Xian</span>, <span>Aljaz Bozic</span>, <span>Noah Snavely</span>, <span>Christoph Lassner</span>
+  </div>
+  
+  
+
+  
+  <span class="article-date">
+    
+    
+    
+    
+    June 2023
+    <span class="middot-divider"></span>
+    
+
+  
+  <a class="badge badge-light" href="/tags/cvpr2023/">CVPR2023</a>
+  
+
+  </span>
+  
+
+  
+
+  
+
+  
+  
+  
+
+  
+  
+
+</div>
+  
+
+
+
+
+
+
+
+
+
+
+
+  
+
+
+
+<div class="btn-links mb-3">
+  
+  
+
+
+
+
+
+
+
+
+  
+    
+  
+
+
+
+<a class="btn btn-outline-primary my-1 mr-1" href="https://arxiv.org/abs/2304.04848" target="_blank" rel="noopener">
+  PDF
+</a>
+
+
+
+<button type="button" class="btn btn-outline-primary my-1 mr-1 js-cite-modal"
+        data-filename="/publication/neural-lens/cite.bib">
+  Cite
+</button>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</div>
+
+
+</div>
+
+
+<div class="article-header article-container featured-image-wrapper mt-4 mb-4" style="max-width: 720px; max-height: 371px;">
+  <div style="position: relative">
+    <img src="/publication/neural-lens/featured_hufb4f8e409db09e26a162549fcd6639b7_1834971_720x0_resize_lanczos_3.png" alt="" class="featured-image">
+    
+  </div>
+</div>
+
+
+
+  <div class="article-container">
+
+    
+    <h3>Abstract</h3>
+    <p class="pub-abstract">Recent methods for 3D reconstruction and rendering in creasingly benefit from end-to-end optimization of the entire image formation process. However, this approach is currently limited: effects of the optical hardware stack and in particular lenses are not being modeled in a differentiable way. This limits the quality that can be achieved for camera calibration as well as the fidelity of results of 3D reconstruction. In this paper, we propose a neural lens model for distortion and vignetting that can be used for point projection and raycasting and can be optimized through both operations. This means that it can (optionally) be used to perform pre-capture calibration using classical calibration targets, and can later be used to perform calibration or refinement during 3D reconstruction; for instance, while optimizing a radiance field. To evaluate the performance of the proposed model, we propose a comprehensive dataset assembled from the Lensfun database with a multitude of lenses. Using this and other real-world datasets, we show that the quality of our proposed lens model outperforms standard packages as well as recent approaches while being much easier to use and extend. The model generalizes across many lens types and is trivial to integrate into existing 3D reconstruction and rendering systems.</p>
+    
+
+    
+    <div class="row">
+      <div class="col-md-1"></div>
+      <div class="col-md-10">
+        <div class="row">
+          <div class="col-12 col-md-3 pub-row-heading">Type</div>
+          <div class="col-12 col-md-9">
+            
+            
+            <a href="/publication/#1">
+              Conference paper
+            </a>
+            
+          </div>
+        </div>
+      </div>
+      <div class="col-md-1"></div>
+    </div>
+    <div class="d-md-none space-below"></div>
+    
+
+    
+
+    <div class="space-below"></div>
+
+    <div class="article-style"></div>
+
+    
+
+
+
+ <div class="article-tags">
+  
+  <a class="badge badge-light" href="/tags/cvpr2023/">CVPR2023</a>
   
 </div>
 
 
 
-<div class="universal-wrapper">
-  
-
-  
-  
+<div class="share-box" aria-hidden="true">
+  <ul class="share">
     
-    
-    
-    <div>
-      <h2><a href="/publication/barrista/" >Barrista - Caffe Well-Served</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          The caffe framework is one of the leading deep learning toolboxes in the machine learning and computer vision community. While it offers efficiency and configurability, it falls short of a full interface to Python. With increasingly involved …
+      
+      
+      
+      <li>
+        <a href="https://twitter.com/intent/tweet?url=https://christophlassner.de/publication/neural-lens/&amp;text=Neural%20Lens%20Modeling" target="_blank" rel="noopener" class="share-btn-twitter">
+          <i class="fab fa-twitter"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.facebook.com/sharer.php?u=https://christophlassner.de/publication/neural-lens/&amp;t=Neural%20Lens%20Modeling" target="_blank" rel="noopener" class="share-btn-facebook">
+          <i class="fab fa-facebook"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/publication/smplify/" >Keep it SMPL: Automatic Estimation of 3D Human Pose and Shape from a Single Image</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          We describe the first method to automatically estimate the 3D pose of the human body as well as its 3D shape from a single unconstrained image. We estimate a full 3D mesh and show that 2D joints alone carry a surprising amount of information about …
+      
+      
+      
+      <li>
+        <a href="mailto:?subject=Neural%20Lens%20Modeling&amp;body=https://christophlassner.de/publication/neural-lens/" target="_blank" rel="noopener" class="share-btn-email">
+          <i class="fas fa-envelope"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
+      
+      
+      
+      <li>
+        <a href="https://www.linkedin.com/shareArticle?url=https://christophlassner.de/publication/neural-lens/&amp;title=Neural%20Lens%20Modeling" target="_blank" rel="noopener" class="share-btn-linkedin">
+          <i class="fab fa-linkedin-in"></i>
+        </a>
+      </li>
     
-    
-    
-    <div>
-      <h2><a href="/publication/fertilized/" >The fertilized forests Decision Forest Library</a></h2>
-      <div class="article-style">
+      
+      
+      
         
-          Since the introduction of Random Forests in the 80's they have been a frequently used statistical tool for a variety of machine learning tasks. Many different training algorithms and model adaptions demonstrate the versatility of the forests. This …
+      
+      
+      
+      <li>
+        <a href="https://web.whatsapp.com/send?text=Neural%20Lens%20Modeling%20https://christophlassner.de/publication/neural-lens/" target="_blank" rel="noopener" class="share-btn-whatsapp">
+          <i class="fab fa-whatsapp"></i>
+        </a>
+      </li>
+    
+      
+      
+      
         
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/active-sampling/" >Active Learning for Efficient Sampling of Control Models of Collectives</a></h2>
-      <div class="article-style">
-        
-          Many large-scale systems benefit from an organizational structure to provide for problem decomposition. A pivotal problem solving setting is given by hierarchical control systems familiar from hierarchical task networks. If these structures can be …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/active-collectives/" >Active Learning for Efficient Sampling of Control Models of Collectives</a></h2>
-      <div class="article-style">
-        
-          Organizational structures such as hierarchies provide an effective means to deal with the increasing complexity found in large-scale energy systems. In hierarchical systems, the concrete functions describing the subsystems can be replaced by abstract …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/norm-induced/" >Norm-induced Entropies for Decision Forests</a></h2>
-      <div class="article-style">
-        
-          The entropy measurement function is a central element of decision forest induction. The Shannon entropy and other generalized entropies such as the Renyi and Tsallis entropy are designed to fulfill the Khinchin-Shannon axioms. Whereas these axioms …
-        
-      </div>
-    </div>
-  
-    
-    
-    
-    <div>
-      <h2><a href="/publication/distance-anns/" >Methods and Applications for Distance Based ANN Training</a></h2>
-      <div class="article-style">
-        
-          Feature learning has the aim to take away the hassle of hand-designing features for machine learning tasks. Since the feature design process is tedious and requires a lot of experience, an automated solution is of great interest. However, an …
-        
-      </div>
-    </div>
-  
-
-  
-<nav>
-  <ul class="pagination justify-content-center">
-    
-    <li class="page-item"><a class="page-link" href="/publication_types/1/page/2/">&laquo;</a></li>
-    
+      
+      
+      
+      <li>
+        <a href="https://service.weibo.com/share/share.php?url=https://christophlassner.de/publication/neural-lens/&amp;title=Neural%20Lens%20Modeling" target="_blank" rel="noopener" class="share-btn-weibo">
+          <i class="fab fa-weibo"></i>
+        </a>
+      </li>
     
   </ul>
-</nav>
+</div>
 
 
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  <div class="article-widget content-widget-hr">
+    <h3>Related</h3>
+    <ul>
+      
+      <li><a href="/publication/neuwigs/">NeuWigs: A Neural Dynamic Model for Volumetric Hair Capture and Animation</a></li>
+      
+    </ul>
+  </div>
+  
+
+
+
+  </div>
 </div>
 
       

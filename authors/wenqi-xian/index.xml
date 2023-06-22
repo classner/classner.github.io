@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Aljaz Bozic | Christoph Lassner</title>
-    <link>https://christophlassner.de/authors/aljaz-bozic/</link>
-      <atom:link href="https://christophlassner.de/authors/aljaz-bozic/index.xml" rel="self" type="application/rss+xml" />
-    <description>Aljaz Bozic</description>
+    <title>Wenqi Xian | Christoph Lassner</title>
+    <link>https://christophlassner.de/authors/wenqi-xian/</link>
+      <atom:link href="https://christophlassner.de/authors/wenqi-xian/index.xml" rel="self" type="application/rss+xml" />
+    <description>Wenqi Xian</description>
     <generator>Source Themes Academic (https://sourcethemes.com/academic/)</generator><language>en-us</language><copyright>©2023 Christoph Lassner</copyright><lastBuildDate>Thu, 08 Jun 2023 14:25:11 -0800</lastBuildDate>
     <image>
       <url>img/map[gravatar:%!s(bool=false) shape:circle]</url>
-      <title>Aljaz Bozic</title>
-      <link>https://christophlassner.de/authors/aljaz-bozic/</link>
+      <title>Wenqi Xian</title>
+      <link>https://christophlassner.de/authors/wenqi-xian/</link>
     </image>
     
     <item>
@@ -17,14 +17,6 @@
       <link>https://christophlassner.de/publication/neural-lens/</link>
       <pubDate>Thu, 08 Jun 2023 14:25:11 -0800</pubDate>
       <guid>https://christophlassner.de/publication/neural-lens/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Neural Assets: Volumetric Object Capture and Rendering for Interactive Environments</title>
-      <link>https://christophlassner.de/publication/neural-assets/</link>
-      <pubDate>Mon, 12 Dec 2022 17:18:24 -0700</pubDate>
-      <guid>https://christophlassner.de/publication/neural-assets/</guid>
       <description></description>
     </item>
     
