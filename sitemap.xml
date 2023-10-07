@@ -2,22 +2,61 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://christophlassner.de/publication_types/3/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/aljaz-bozic/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/christian-theobalt/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/christoph-lassner/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/edith-tretschk/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/michael-zollhofer/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/publication_types/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/publication/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/publication/scenerflow/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/vladislav-golyanik/</loc>
+    <lastmod>2023-08-16T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/carlos-aliaga/</loc>
+    <lastmod>2023-06-15T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/publication/neural-relighting/</loc>
+    <lastmod>2023-06-15T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/shizhan-zhu/</loc>
+    <lastmod>2023-06-15T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/shunsuke-saito/</loc>
+    <lastmod>2023-06-15T14:25:11-08:00</lastmod>
+  </url><url>
+    <loc>https://christophlassner.de/authors/trevor-darrell/</loc>
+    <lastmod>2023-06-15T14:25:11-08:00</lastmod>
+  </url><url>
     <loc>https://christophlassner.de/publication_types/1/</loc>
     <lastmod>2023-06-08T14:25:11-08:00</lastmod>
   </url><url>
-    <loc>https://christophlassner.de/authors/aljaz-bozic/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/authors/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
     <loc>https://christophlassner.de/authors/chen-cao/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/authors/christoph-lassner/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/</loc>
     <lastmod>2023-06-08T14:25:11-08:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/tags/cvpr2023/</loc>
@@ -44,12 +83,6 @@
     <loc>https://christophlassner.de/authors/noah-snavely/</loc>
     <lastmod>2023-06-08T14:25:11-08:00</lastmod>
   </url><url>
-    <loc>https://christophlassner.de/publication_types/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/publication/</loc>
-    <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
     <loc>https://christophlassner.de/authors/stephen-lombardi/</loc>
     <lastmod>2023-06-08T14:25:11-08:00</lastmod>
   </url><url>
@@ -64,9 +97,6 @@
   </url><url>
     <loc>https://christophlassner.de/authors/ziyan-wang/</loc>
     <lastmod>2023-06-08T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/publication_types/3/</loc>
-    <lastmod>2022-12-12T17:18:24-07:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/authors/denis-gladkov/</loc>
     <lastmod>2022-12-12T17:18:24-07:00</lastmod>
@@ -116,9 +146,6 @@
     <loc>https://christophlassner.de/authors/jurgen-gall/</loc>
     <lastmod>2022-10-30T14:25:11-08:00</lastmod>
   </url><url>
-    <loc>https://christophlassner.de/authors/michael-zollhofer/</loc>
-    <lastmod>2022-10-30T14:25:11-08:00</lastmod>
-  </url><url>
     <loc>https://christophlassner.de/authors/minh-vo/</loc>
     <lastmod>2022-10-30T14:25:11-08:00</lastmod>
   </url><url>
@@ -156,9 +183,6 @@
     <lastmod>2022-08-09T17:18:24-07:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/tags/cvpr2022/</loc>
-    <lastmod>2022-06-29T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/authors/edith-tretschk/</loc>
     <lastmod>2022-06-29T14:25:11-08:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/authors/etienne-vouga/</loc>
@@ -242,9 +266,6 @@
     <loc>https://christophlassner.de/authors/ben-mildenhall/</loc>
     <lastmod>2022-04-28T14:25:11-08:00</lastmod>
   </url><url>
-    <loc>https://christophlassner.de/authors/christian-theobalt/</loc>
-    <lastmod>2022-04-28T14:25:11-08:00</lastmod>
-  </url><url>
     <loc>https://christophlassner.de/tags/egstar2022/</loc>
     <lastmod>2022-04-28T14:25:11-08:00</lastmod>
   </url><url>
@@ -270,9 +291,6 @@
     <lastmod>2022-04-28T14:25:11-08:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/authors/vincent-sitzmann/</loc>
-    <lastmod>2022-04-28T14:25:11-08:00</lastmod>
-  </url><url>
-    <loc>https://christophlassner.de/authors/vladislav-golyanik/</loc>
     <lastmod>2022-04-28T14:25:11-08:00</lastmod>
   </url><url>
     <loc>https://christophlassner.de/authors/yifan-wang/</loc>
